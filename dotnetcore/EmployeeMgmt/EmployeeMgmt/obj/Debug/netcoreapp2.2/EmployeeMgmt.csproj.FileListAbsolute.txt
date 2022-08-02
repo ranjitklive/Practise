@@ -1,0 +1,14 @@
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\bin\Debug\netcoreapp2.2\EmployeeMgmt.deps.json
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\bin\Debug\netcoreapp2.2\EmployeeMgmt.runtimeconfig.json
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\bin\Debug\netcoreapp2.2\EmployeeMgmt.runtimeconfig.dev.json
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\bin\Debug\netcoreapp2.2\EmployeeMgmt.dll
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\bin\Debug\netcoreapp2.2\EmployeeMgmt.pdb
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.csproj.CoreCompileInputs.cache
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.RazorAssemblyInfo.cache
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.RazorAssemblyInfo.cs
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.AssemblyInfoInputs.cache
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.AssemblyInfo.cs
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.RazorTargetAssemblyInfo.cache
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.dll
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.pdb
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt\obj\Debug\netcoreapp2.2\EmployeeMgmt.csprojAssemblyReference.cache

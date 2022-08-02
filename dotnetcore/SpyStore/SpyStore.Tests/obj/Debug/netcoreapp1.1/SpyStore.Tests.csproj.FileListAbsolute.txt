@@ -1,0 +1,16 @@
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.Tests.deps.json
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.Tests.runtimeconfig.json
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.Tests.runtimeconfig.dev.json
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.Tests.dll
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.Tests.pdb
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.dll
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.pdb
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\bin\Debug\netcoreapp1.1\SpyStore.Models.pdb
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\obj\Debug\netcoreapp1.1\SpyStore.Tests.csprojAssemblyReference.cache
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\obj\Debug\netcoreapp1.1\SpyStore.Tests.csproj.CoreCompileInputs.cache
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\obj\Debug\netcoreapp1.1\SpyStore.Tests.AssemblyInfoInputs.cache
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\obj\Debug\netcoreapp1.1\SpyStore.Tests.AssemblyInfo.cs
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\obj\Debug\netcoreapp1.1\SpyStore.Tests.csproj.CopyComplete
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\obj\Debug\netcoreapp1.1\SpyStore.Tests.dll
+D:\PRACTISE\dotnetcore\SpyStore\SpyStore.Tests\obj\Debug\netcoreapp1.1\SpyStore.Tests.pdb

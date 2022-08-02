@@ -1,0 +1,6 @@
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt.DataAccess\bin\Debug\netcoreapp2.2\EmployeeMgmt.DataAccess.deps.json
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt.DataAccess\bin\Debug\netcoreapp2.2\EmployeeMgmt.DataAccess.dll
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt.DataAccess\obj\Debug\netcoreapp2.2\EmployeeMgmt.DataAccess.csprojAssemblyReference.cache
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt.DataAccess\obj\Debug\netcoreapp2.2\EmployeeMgmt.DataAccess.csproj.CoreCompileInputs.cache
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt.DataAccess\obj\Debug\netcoreapp2.2\EmployeeMgmt.DataAccess.AssemblyInfoInputs.cache
+D:\PRACTISE\dotnetcore\EmployeeMgmt\EmployeeMgmt.DataAccess\obj\Debug\netcoreapp2.2\EmployeeMgmt.DataAccess.AssemblyInfo.cs
