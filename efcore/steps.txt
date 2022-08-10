@@ -1,0 +1,10 @@
+visual studio new project
+.net core
+tools > package manager console
+install-package Microsoft.EntityFrameworkCore.SqlServer 
+install-package Microsoft.EntityFrameworkCore.Design
+install-package Microsoft.EntityFrameworkCore.Tools
+Create Models
+Create DbContext
+Provide connection string
+add startup configuration
